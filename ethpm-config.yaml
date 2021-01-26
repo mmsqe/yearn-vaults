@@ -2,5 +2,5 @@ package_name: vault
 version: 0.3.0
 settings:
   deployment_networks:
-    - mainnet
+    - ropsten
   include_dependencies: false
